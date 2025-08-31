@@ -1,0 +1,11 @@
+# Arquivos e pastas sensíveis
+config_twilio.py
+venv/
+*.db
+.env
+__pycache__/
+*.pyc
+
+# Outros arquivos que não devem subir
+.DS_Store
+*.log
